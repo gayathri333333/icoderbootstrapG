@@ -1,0 +1,26 @@
+
+.size{
+    width:1500px;
+    height:550px;
+}
+.d1{
+    color:black;
+    font-size:larger;
+   font-style:oblique;
+    font-weight: 200px;
+}
+.d2{
+    color:white;
+    font-weight:100px;
+    font-style:oblique;
+}
+
+
+.hovering:hover{
+    background-color:grey;
+
+    
+}
+
+
+
